@@ -1,6 +1,9 @@
 ## Welcome to My Page!
+[]
 
-My name is Natalya Myers, and I am a DIGIT major at Penn State Behrend in my sophomore year.
+My name is Natalya Myers, and I am a DIGIT major at Penn State Behrend in my sophomore year. I enjoy reading, creating, and am an active member in Behrend’s theater.
+
+This is my personal page, where you can find information on me, view my resume, and keep up to date on projects I am currently working on or have finished.
 
 ### Markdown
 
