@@ -1,5 +1,5 @@
 ## Welcome to My Page!
-[]
+<img src= "gh-pages/DSC00780z.jpg" >
 
 My name is Natalya Myers, and I am a DIGIT major at Penn State Behrend in my sophomore year. I enjoy reading, creating, and am an active member in Behrend’s theater.
 
