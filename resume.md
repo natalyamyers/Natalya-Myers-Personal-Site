@@ -1,7 +1,3 @@
----
-layout: page
-title: Resume
----
 # Resume
 ## Natalya Myers
 ### Contact Information
