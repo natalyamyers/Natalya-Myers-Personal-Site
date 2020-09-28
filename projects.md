@@ -3,7 +3,7 @@ My most recent project was a short film for my Art168 course. We explored cinema
 
 I’m currently working on a second project in Art168 with photoshop and creating artistic pictures from a simple landscape portrait. Nothing to show yet, but I will update when it’s finished!
 
-You’re viewing one of my projects right now just by being on this site! For my Digit100 course we’re exploring web development on two different platforms, WordPress and Github Pages. Right now you’re viewing my GitHub site, click [here](sites.psu.edu/natalyamyerspersonal/) to go over to my WordPress Page and compare! And click [here](finalthoughts.md) to read my thoughts on the project.
+You’re viewing one of my projects right now just by being on this site! For my Digit100 course we’re exploring web development on two different platforms, WordPress and Github Pages. Right now you’re viewing my GitHub site, click [here](sites.psu.edu/natalyamyerspersonal) to go over to my WordPress Page and compare! And click [here](finalthoughts.md) to read my thoughts on the project.
 
 [back to home](index.md)<br> 
 [to my resume](resume.md)
