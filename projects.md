@@ -5,5 +5,5 @@ I’m currently working on a second project in Art168 with photoshop and creatin
 
 You’re viewing one of my projects right now just by being on this site! For my Digit100 course we’re exploring web development on two different platforms, WordPress and Github Pages. Right now you’re viewing my GitHub site, click [here](sites.psu.edu/natalyamyerspersonal/) to go over to my WordPress Page and compare! And click [here](finalthoughts.md) to read my thoughts on the project.
 
-[back to home](index.md)
+[back to home](index.md)  
 [to my resume](resume.md)
