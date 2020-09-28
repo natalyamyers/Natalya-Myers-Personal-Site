@@ -19,3 +19,6 @@ Seneca High School: Interned with a music teacher for two years. Work included p
 * Teamwork
 * Ability to work in groups as well as individually
 * People skills
+
+[back to home](index.md)
+[to my projects](projects.md)
