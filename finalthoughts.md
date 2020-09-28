@@ -12,4 +12,4 @@ One of the skills I would say is most helpful to have is to know how to make spe
 
   Overall, I thought that this project helped me learn more about how to troubleshoot and use tips from others to better understand how to code and design. Moving forward I believe that this will be a big help in future projects and a good skill to develop and add to my resume. I think that I will keep my sites up and continue to edit them as I learn more so that I can use them professionally.<br>
   
-Link to my [second site](htpps://sites.psu.edu/natalyamyerspersonal/)
+Link to my [second site](https://sites.psu.edu/natalyamyerspersonal/)
